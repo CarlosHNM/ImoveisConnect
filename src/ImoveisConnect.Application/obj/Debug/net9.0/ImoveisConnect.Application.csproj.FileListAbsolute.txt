@@ -1,0 +1,17 @@
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\bin\Debug\net9.0\ImoveisConnect.Application.deps.json
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\bin\Debug\net9.0\ImoveisConnect.Application.runtimeconfig.json
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\bin\Debug\net9.0\ImoveisConnect.Application.dll
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\bin\Debug\net9.0\ImoveisConnect.Application.pdb
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.csproj.AssemblyReference.cache
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.Mensagens.resources
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.csproj.GenerateResource.cache
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.AssemblyInfoInputs.cache
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.AssemblyInfo.cs
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.csproj.CoreCompileInputs.cache
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.sourcelink.json
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.dll
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\refint\ImoveisConnect.Application.dll
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.pdb
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ImoveisConnect.Application.genruntimeconfig.cache
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.Application\obj\Debug\net9.0\ref\ImoveisConnect.Application.dll

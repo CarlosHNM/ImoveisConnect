@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoveisConnect.API", "ImoveisConnect.API\ImoveisConnect.API.csproj", "{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{13A53207-0C88-4E48-B9F1-94EE23BA839B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoveisConnect.Domain", "ImoveisConnect.Domain\ImoveisConnect.Domain.csproj", "{6B410C8B-C596-40C3-83DD-270489B5E567}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoveisConnect.Infra", "ImoveisConnect.Infra\ImoveisConnect.Infra.csproj", "{17EA423C-2FE4-4082-8771-A8CF62AB7C09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImoveisConnect.Application", "ImoveisConnect.Application\ImoveisConnect.Application.csproj", "{B80D0F2E-181A-4411-B7F6-4D0444E0B627}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B410C8B-C596-40C3-83DD-270489B5E567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B410C8B-C596-40C3-83DD-270489B5E567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B410C8B-C596-40C3-83DD-270489B5E567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B410C8B-C596-40C3-83DD-270489B5E567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EA423C-2FE4-4082-8771-A8CF62AB7C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EA423C-2FE4-4082-8771-A8CF62AB7C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EA423C-2FE4-4082-8771-A8CF62AB7C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EA423C-2FE4-4082-8771-A8CF62AB7C09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80D0F2E-181A-4411-B7F6-4D0444E0B627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80D0F2E-181A-4411-B7F6-4D0444E0B627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80D0F2E-181A-4411-B7F6-4D0444E0B627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80D0F2E-181A-4411-B7F6-4D0444E0B627}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D3B7CA67-83F0-4D5F-9F1C-1191A6D8891B} = {13A53207-0C88-4E48-B9F1-94EE23BA839B}
+		{6B410C8B-C596-40C3-83DD-270489B5E567} = {13A53207-0C88-4E48-B9F1-94EE23BA839B}
+		{17EA423C-2FE4-4082-8771-A8CF62AB7C09} = {13A53207-0C88-4E48-B9F1-94EE23BA839B}
+		{B80D0F2E-181A-4411-B7F6-4D0444E0B627} = {13A53207-0C88-4E48-B9F1-94EE23BA839B}
+	EndGlobalSection
+EndGlobal
