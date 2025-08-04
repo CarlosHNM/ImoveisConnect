@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/src/ImoveisConnect.API/appsettings.Development.json
+/.vs/ImoveisConnect/CopilotIndices/17.12.31.40377
+/.vs
