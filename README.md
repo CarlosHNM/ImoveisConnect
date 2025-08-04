@@ -1,4 +1,4 @@
-# Projeto Imóveis Conect
+# Projeto ImoveisConnect
 
 Este projeto é uma Web API desenvolvida em .NET 9, com autenticação JWT, persistência em banco de dados relacional (MS SQL Server) e containerização com Docker.
 A API permite a gestão de entidades relacionadas a imóveis, vendas e o cadastro/atualização de clientes.
