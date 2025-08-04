@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImoveisConnect.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5dc33c942f093516fa21eab0f08310258b9bc64")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d71a2fe877f4f5e4f3be293ea864644e01fba0a5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImoveisConnect.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImoveisConnect.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

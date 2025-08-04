@@ -176,3 +176,4 @@ C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.API\obj\Debug\net9.0\refint\I
 C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.API\obj\Debug\net9.0\ImoveisConnect.API.pdb
 C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.API\obj\Debug\net9.0\ImoveisConnect.API.genruntimeconfig.cache
 C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.API\obj\Debug\net9.0\ref\ImoveisConnect.API.dll
+C:\ProjetoDotNet\ImoveisConnect\src\ImoveisConnect.API\obj\Debug\net9.0\ImoveisConnect.API.MvcApplicationPartsAssemblyInfo.cs
